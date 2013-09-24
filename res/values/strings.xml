@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SendingReceivingSmsActivity!</string>
+    <string name="app_name">SMS Loop</string>
+    <string name="enter">Recipient:</string>
+    <string name="msg">Message</string>
+    <string name="send">Send SMS</string>
+    <string name="num">SMS Loop: </string>
+    <string name="abc">1</string>
+    <item name="keyboard" type="id">false</item>
+    <string name="about">About Us</string>
+    <string name="sec">Delay: </string>
+    <string name="contact">Contact Us</string>
+    <color name="Black">#000000</color>
+    
+
+</resources>
